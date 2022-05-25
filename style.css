@@ -1,0 +1,20 @@
+body {
+	text-align: center;
+	background-image: url(https://preview.redd.it/dx9fthf1l9041.jpg?auto=webp&s=cfc384875cb2504ef269d5eef06cf0b782d74b1a);
+	background-size: cover;
+}
+
+h2 {
+	color: rgb(255, 0, 0);
+	border: solid 5px rgba(255, 0, 0, .5);
+	/*text-align: center;*/
+}
+
+li {
+	text-decoration: none;
+	display: inline-block;
+}
+
+p {
+	color: green;
+}
